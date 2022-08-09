@@ -1,0 +1,15 @@
+{
+  "bg": "#fff",
+  "dark-bg": "#edf2f7",
+  "inRoute": "#0056e2",
+  "primary-color": "#DEF2F1",
+  "dark-primary-color": "#63AAE6",
+  "second-color": "#fff9ed",
+  "dark-second-color": "#F07D2D",
+  "border": "#E8E8E8",
+  "color": "#444",
+  "line-size": "2px",
+  "border-radius": "25px",
+  "shadow": "0 0 12px 4px rgba(0,0,0,0.1)",
+  "gradient": "linear-gradient(140deg,rgba(79, 255, 247, 0.36),rgba(99, 170, 230, 1),rgba(99, 170, 230, 1))"
+}
